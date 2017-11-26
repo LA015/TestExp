@@ -1,0 +1,6 @@
+c:\users\lpakh\documents\visual studio 2017\Projects\FirstCheck\FirstCheck\bin\Debug\FirstCheck.exe.config
+c:\users\lpakh\documents\visual studio 2017\Projects\FirstCheck\FirstCheck\bin\Debug\FirstCheck.exe
+c:\users\lpakh\documents\visual studio 2017\Projects\FirstCheck\FirstCheck\bin\Debug\FirstCheck.pdb
+c:\users\lpakh\documents\visual studio 2017\Projects\FirstCheck\FirstCheck\obj\Debug\FirstCheck.csprojResolveAssemblyReference.cache
+c:\users\lpakh\documents\visual studio 2017\Projects\FirstCheck\FirstCheck\obj\Debug\FirstCheck.exe
+c:\users\lpakh\documents\visual studio 2017\Projects\FirstCheck\FirstCheck\obj\Debug\FirstCheck.pdb
